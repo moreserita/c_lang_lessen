@@ -14,5 +14,5 @@ int main(void){
     printf("積 : %d\n",seki);
     printf("差 : %d\n",sa);
     printf("商 : %d\n",syo);
-
+    return 0;
 }
